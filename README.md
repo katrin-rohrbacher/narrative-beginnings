@@ -3,7 +3,7 @@
 ## Installation
 
 First download or clone this repo using git: 
-```git clone https://github.com/katrinrohrb/narrative-beginnings.git```
+```git clone https://github.com/katrin-rohrbacher/narrative-beginnings.git```
 
 After this you can install required python packages using the following command. We reccommand running this after creating a virtual environment, e.g. following "recreate-env.txt" (has been tested with Python 3.10 and 3.13): 
 ```pip install -r requirements_no_deps.txt```
